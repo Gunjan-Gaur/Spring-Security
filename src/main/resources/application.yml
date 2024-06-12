@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springbootbasic
+  security:
+    user:
+      name: gunjan
+      password: gunjan
+server:
+  port: 8090
